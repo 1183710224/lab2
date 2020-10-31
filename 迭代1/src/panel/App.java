@@ -24,7 +24,7 @@ import javax.swing.JTextField;
 import Exception.IllegalCharacterException;
 import Exception.OutstepException;
 
-public class App  implements ActionListener{
+public class App  implements ActionListener{	
 	JFrame window;
 	JLabel sum;
 	JLabel right;
@@ -492,7 +492,10 @@ public class App  implements ActionListener{
   		window.setVisible(true);//设置可见
   		
       }
-     
+     public void abc()//添加一个空方法
+     {
+    	 
+     }
       
 		}
 		
