@@ -496,7 +496,11 @@ public class App  implements ActionListener{
      {
     	 
      }
-
+     public void xyz()//添加第二个空方法
+     {
+    	 
+     }
+    
 		}
 		
 		
