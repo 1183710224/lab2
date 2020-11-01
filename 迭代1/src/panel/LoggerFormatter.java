@@ -12,6 +12,7 @@ public class LoggerFormatter extends Formatter{
 		SimpleDateFormat df = new SimpleDateFormat("yyyy年MM月dd日");
 		String string = df.format(new Date())+"\n"+arg0.getMessage()+"\n"+"\n"+"\n";
 		String simple = "添加";//添加的语句
+		String sim = "添加";//添加的语句
 		return string;
 	}
 

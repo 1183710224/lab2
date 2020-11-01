@@ -500,7 +500,10 @@ public class App  implements ActionListener{
      {
     	 
      }
-    
+     public void C4()//Ìí¼Ó
+     {
+    	 
+     }
 		}
 		
 		
